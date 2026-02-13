@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-gunicorn
-requests
-beautifulsoup4
-jinja2
